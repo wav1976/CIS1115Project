@@ -2,7 +2,7 @@ package Myproject;
 
 
 /**
- * Cars class.
+ * Cars class. This class is a list of cars. 
  *
  * @author Wayne Vanzile 
  */
