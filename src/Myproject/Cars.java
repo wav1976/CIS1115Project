@@ -3,6 +3,7 @@ package Myproject;
 
 /**
  * Cars class. This class is a list of cars. 
+ * comment 2. 
  *
  * @author Wayne Vanzile 
  */
