@@ -1,0 +1,7 @@
+5,Toyota,Supra,5000.00
+6,Ford,Fusion,1100.00
+4,Dodge,Ram,800.00
+3,Dodge,Intrepid,700.00
+2,Dodge,Dakota,600.00
+1,Dodge,Daytona,500.00
+7,chevy,S-10 Blazer,1200.00
